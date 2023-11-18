@@ -1067,7 +1067,7 @@ opacity: 1;
     margin: 0 auto;
    
 }
-@media(max-width:767px) {
+@media(min-width:767px) {
     #navbar {
         display: flex;
         flex-direction: column;
